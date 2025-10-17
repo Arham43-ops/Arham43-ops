@@ -1,7 +1,11 @@
+###
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-## 💫 About Me:
+
+###
+
+## 💫 About me:
 I'm Arham Topiwala, a passionate Software Developer who loves exploring how technology works —<br>from low-level logic circuits to high-level software systems.<br><br>With strong experience in Python, JavaScript, and modern web technologies,<br>I focus on building efficient, scalable, and reliable applications that blend logical precision with creative problem-solving.<br><br>For me, software development is not just about writing code —<br>it's about crafting meaningful digital experiences and solving real-world challenges with innovation and clarity.
 
 
