@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi,%20I'm%20Arham&fontSize=50&fontColor=f3f6f4&fontAlign=50&fontAlignY=35&rotate=0&stroke=000000&strokeWidth=2&animation=twinkling&desc=Web%20Developer%7C%20%20Freelancer%20%7C%20AI%20Enthusiast&descSize=23&descAlign=50&descAlignY=70&color=random"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi,%20I'm%20Arham&fontSize=50&fontColor=f3f6f4&fontAlign=50&fontAlignY=35&rotate=0&stroke=000000&strokeWidth=2&animation=twinkling&desc=Web%20Developer%7C%20%20Freelancer%20%7C%20AI%20Enthusiast&descSize=23&descAlign=50&descAlignY=75&color=random"  />
 </div>
 
 ###
@@ -16,3 +16,4 @@ I'm Arham Topiwala, a passionate Software Developer who loves exploring how tech
 
 
 <img src="https://raw.githubusercontent.com/Arham43-ops/Arham43-ops/output/snake.svg" alt="Snake animation" />
+
