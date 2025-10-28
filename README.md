@@ -7,9 +7,6 @@
 ## 💫 About me:
 I'm Arham Topiwala, a passionate Software Developer who loves exploring how technology works —<br>from low-level logic circuits to high-level software systems.<br><br>With strong experience in Python, JavaScript, and modern web technologies,<br>I focus on building efficient, scalable, and reliable applications that blend logical precision with creative problem-solving.<br><br>For me, software development is not just about writing code —<br>it's about crafting meaningful digital experiences and solving real-world challenges with innovation and clarity.
 
-### ✍️ Coding Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ofc.not_arham) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arham-topiwala) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/topiwalaarham) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:topiwalaarham@gmail.com) 
 
@@ -21,6 +18,8 @@ I'm Arham Topiwala, a passionate Software Developer who loves exploring how tech
 ![](https://nirzak-streak-stats.vercel.app/?user=Arham43-ops&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arham43-ops&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+### ✍️ Coding Quotes
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 
