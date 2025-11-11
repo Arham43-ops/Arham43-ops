@@ -33,6 +33,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arham43-ops&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
+<img src="https://raw.githubusercontent.com/Arham43-ops/Arham43-ops/output/snake.svg" alt="Snake animation" />
+
+###
 
 ### ✍️ Coding Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -45,4 +48,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/arham43-ops/Django-QR_generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arham43-ops&repo=Django-QR_generator&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/arham43-ops/gamehub" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arham43-ops&repo=gamehub&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
 
