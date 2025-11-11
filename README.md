@@ -50,3 +50,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <div width="100%" align="center"><a href="https://github.com/arham43-ops/Django-QR_generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arham43-ops&repo=Django-QR_generator&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/arham43-ops/gamehub" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arham43-ops&repo=gamehub&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 
+
