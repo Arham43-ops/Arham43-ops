@@ -37,15 +37,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <div width="100%" align="center"><a href="https://github.com/arham43-ops/Django-QR_generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arham43-ops&repo=Django-QR_generator&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/arham43-ops/gamehub" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arham43-ops&repo=gamehub&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Arham43-ops&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arham43-ops&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arham43-ops&theme=tokyonight" alt="GitHub Streak" />
-
 ## GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arham43-ops&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
@@ -53,4 +44,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### ✍️ Coding Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
