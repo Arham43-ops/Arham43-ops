@@ -1,7 +1,7 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi,%20I'm%20Arham&fontSize=50&fontColor=f3f6f4&fontAlign=50&fontAlignY=35&rotate=0&stroke=000000&strokeWidth=2&animation=twinkling&desc=Web%20Developer%20%7C%20%20Freelancer%20%7C%20AI%20Enthusiast&descSize=23&descAlign=50&descAlignY=75&color=random"  />
 </div>
-# 💫 About Me:
+
 ### 👋 Hey, I’m Arham<br><br>- 🔭 I’m currently working on web apps using Django, Laravel, PHP, and Python  <br>- 🤝 I’m looking to collaborate on full-stack projects and AI-powered tools  <br>- 🧠 I’m currently learning advanced AI workflows, modern web architectures, and scalable backend systems  <br>- 💬 Ask me about Django, REST APIs, UI/UX for portfolios, and automating workflows  <br>- ⚡ Fun fact: I’ve built projects across multiple stacks just because I love experimenting<br>
 
 
@@ -27,6 +27,7 @@
 <br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/arham43-ops/Django-QR_generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arham43-ops&repo=Django-QR_generator&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/arham43-ops/gamehub" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arham43-ops&repo=gamehub&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
 
 
 
