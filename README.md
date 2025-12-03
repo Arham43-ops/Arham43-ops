@@ -15,9 +15,11 @@
 ## GitHub Activity Graph
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arham43-ops&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" /> -->
-![Arham's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arham43-ops&theme=radical&hide_border=true)
+<!-- ![Arham's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arham43-ops&theme=radical&hide_border=true)-->
+![Arham's Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Arham43-ops&theme=dark)
 
 ### ✍️ Coding Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 
