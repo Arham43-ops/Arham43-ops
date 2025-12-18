@@ -14,7 +14,7 @@
 
 ## GitHub Activity Graph
 
-![Arham's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arham43-ops&theme=radical&hide_border=true)
+![Arham's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arham43-ops&theme=radical)
 
 ### ✍️ Coding Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
