@@ -2,7 +2,17 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi,%20I'm%20Arham&fontSize=50&fontColor=f3f6f4&fontAlign=50&fontAlignY=35&rotate=0&stroke=000000&strokeWidth=2&animation=twinkling&desc=Web%20Developer%20%7C%20%20Freelancer%20%7C%20AI%20Enthusiast&descSize=23&descAlign=50&descAlignY=75&color=random"  />
 </div>
 
-### 👋 Hey, I’m Arham<br><br>- 🔭 I’m currently working on web apps using Django, Laravel, PHP, and Python  <br>- 🤝 I’m looking to collaborate on full-stack projects and AI-powered tools  <br>- 🧠 I’m currently learning advanced AI workflows, modern web architectures, and scalable backend systems  <br>- 💬 Ask me about Django, REST APIs, UI/UX for portfolios, and automating workflows  <br>- ⚡ Fun fact: I’ve built projects across multiple stacks just because I love experimenting<br>
+👋 Hi, I’m Arham
+
+Full-stack developer who likes building smart systems and breaking boring ones.
+
+I work with Django, Laravel, Python, PHP, Kotlin, and modern web stacks.
+Currently exploring AI-powered tools, scalable backends, and creative web experiences.
+
+I enjoy projects that mix logic + design + automation
+If it solves a real problem or looks insanely cool, I’m in.
+
+Build fast. Think smart. Automate the boring.
 
 
 # 💻 Tech Stack:
@@ -18,6 +28,7 @@
 
 ### ✍️ Coding Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 
 
