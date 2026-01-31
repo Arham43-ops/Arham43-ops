@@ -2,7 +2,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi,%20I'm%20Arham&fontSize=50&fontColor=f3f6f4&fontAlign=50&fontAlignY=35&rotate=0&stroke=000000&strokeWidth=2&animation=twinkling&desc=Web%20Developer%20%7C%20%20Freelancer%20%7C%20AI%20Enthusiast&descSize=23&descAlign=50&descAlignY=75&color=random"  />
 </div>
 
-👋 Hi, I’m Arham
+<h1>👋 Hi, I’m Arham </h1>
 
 Full-stack developer who likes building smart systems and breaking boring ones.
 
@@ -28,6 +28,7 @@ Build fast. Think smart. Automate the boring.
 
 ### ✍️ Coding Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 
 
