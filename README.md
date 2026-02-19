@@ -11,7 +11,7 @@
 ```python
 Arham = {
     "role":         "Full-Stack Developer & Freelancer",
-    "experience":   "3-4 years building for real clients & real problems",
+    "experience":   "2 years building for real clients & real problems",
     "stack":        ["Django", "Laravel", "Python", "PHP", "Kotlin", "React", "Next.js"],
     "currently":    ["Diving deep into AI/ML", "Contributing to open source", "Taking freelance projects"],
     "works_best":   "after midnight ☕🌙",
@@ -20,7 +20,7 @@ Arham = {
 }
 ```
 
-I've spent the last **3–4 years** turning client ideas into shipped products — from backend APIs that don't buckle under pressure, to frontends that actually look good. I've worked across industries, survived tight deadlines, and learned that the best code is the kind that solves a real problem *elegantly*.
+I've spent the last **2 years** turning client ideas into shipped products — from backend APIs that don't buckle under pressure, to frontends that actually look good. I've worked across industries, survived tight deadlines, and learned that the best code is the kind that solves a real problem *elegantly*.
 
 These days I'm especially excited about **AI-powered apps** and what happens when you combine solid engineering with creative automation. If it's smart, fast, or weirdly satisfying to use — I probably want to build it.
 
@@ -37,6 +37,8 @@ I do my best work late at night, fuelled by caffeine and the occasional gaming s
 | 🌐 Portfolio | [https://arham-creative-developer.netlify.app/](#) |
 | 💼 LinkedIn | [linkedin.com/in/arham43-ops](#) |
 | 📬 Email | [topiwalaarham@gmail.com](#) |
+| 🐙 GitHub | [Arham43-ops](https://github.com/Arham43-ops) |
+| 📸 Instagram | [ofc.not_arham](https://instagram.com/ofc.not_arham) |
 
 ---
 
@@ -106,3 +108,4 @@ I do my best work late at night, fuelled by caffeine and the occasional gaming s
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:6a11cb,100:2575fc" width="100%" />
 
 </div>
+
