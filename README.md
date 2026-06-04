@@ -34,11 +34,11 @@ I do my best work late at night, fuelled by caffeine and the occasional gaming s
 
 | Platform | Link |
 |----------|------|
-| 🌐 Portfolio | [https://arham-creative-developer.netlify.app/](#) |
+| 🌐 Portfolio | [https://arham99.vercel.app/](#) |
 | 💼 LinkedIn | [linkedin.com/in/arham43-ops](#) |
 | 📬 Email | [topiwalaarham@gmail.com](#) |
 | 🐙 GitHub | [Arham43-ops](https://github.com/Arham43-ops) |
-| 📸 Instagram | [ofc.not_arham](https://instagram.com/ofc.not_arham) |
+| 📸 Instagram | [Arham.tsx](https://www.instagram.com/arham.tsx/) |
 
 ---
 
