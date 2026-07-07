@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Hey%20there!%20I'm%20Arham%20👋&fontSize=42&fontColor=f3f6f4&fontAlign=50&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Dev%20%7C%20Freelancer%20%7C%20Creative%20Developer&descSize=20&descAlign=50&descAlignY=72&color=0:6a11cb,100:2575fc" width="100%" />
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Django+%7C+Laravel;LLM+%2F+AI+API+Integration+Engineer;Building+Scalable+Digital+Products" alt="Typing SVG" />
 </div>
 
 ---
@@ -34,7 +36,7 @@ I do my best work late at night, fuelled by caffeine and the occasional gaming s
 
 | Platform | Link |
 |----------|------|
-| 🌐 Portfolio | [https://arham99.vercel.app/](#) |
+| 🌐 Portfolio | [https://arham99.vercel.app/](https://arham99.vercel.app/) |
 | 💼 LinkedIn | [linkedin.com/in/arham43-ops](#) |
 | 📬 Email | [topiwalaarham@gmail.com](#) |
 | 🐙 GitHub | [Arham43-ops](https://github.com/Arham43-ops) |
