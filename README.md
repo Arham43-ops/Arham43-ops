@@ -10,7 +10,7 @@
 
 ### 📊 Stats
 <div align="center">
-  <img src="stats.svg" width="100%" alt="Arham's GitHub Stats">
+ <img src="stats.svg?v=2" width="100%" alt="Arham's GitHub Stats">
 </div>
 
 ---
