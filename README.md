@@ -19,7 +19,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Arham43-ops&theme=react-dark&hide_border=true&area=true"
+    src="https://YOUR-ACTIVITY-DOMAIN.vercel.app/graph?username=Arham43-ops&theme=react-dark&hide_border=true&area=true"
     alt="Arham Topiwala GitHub Activity Graph"
     width="100%"
   />
