@@ -15,18 +15,6 @@
 
 ---
 
-## 🌐 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://YOUR-ACTIVITY-DOMAIN.vercel.app/graph?username=Arham43-ops&theme=react-dark&hide_border=true&area=true"
-    alt="Arham Topiwala GitHub Activity Graph"
-    width="100%"
-  />
-</p>
-
----
-
 <div align="center">
 ✍️ *A random dev quote to close things out:*
 
