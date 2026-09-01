@@ -15,8 +15,15 @@
 
 ---
 
-### 🌐 Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arham43-ops&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&custom_title=Arham's%20GitHub%20Activity)
+## 🌐 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Arham43-ops&theme=react-dark&hide_border=true&area=true"
+    alt="Arham Topiwala GitHub Activity Graph"
+    width="100%"
+  />
+</p>
 
 ---
 
