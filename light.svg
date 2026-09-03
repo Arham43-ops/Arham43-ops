@@ -270,7 +270,7 @@
       <text x="492" y="241" font-family="'SF Mono',Consolas,monospace" font-size="12.5" font-weight="600"><tspan fill="#475569">🔭 </tspan><tspan fill="#334155">focus     </tspan><tspan fill="#090d16">AI and 3D Interactive designing</tspan></text>
     </g>
     <g opacity="0"><animate attributeName="opacity" values="0;1;1" keyTimes="0;0.40;1" dur="12s" fill="freeze"/>
-      <text x="492" y="263" font-family="'SF Mono',Consolas,monospace" font-size="12.5" font-weight="600"><tspan fill="#475569">🌐 </tspan><tspan fill="#334155">portfolio </tspan><tspan fill="#2563eb" >arham99.vercel.app</tspan></text>
+      <text x="492" y="263" font-family="'SF Mono',Consolas,monospace" font-size="12.5" font-weight="600"><tspan fill="#475569">🌐 </tspan><tspan fill="#334155">portfolio </tspan><tspan fill="#2563eb" >www.stacklore.tech</tspan></text>
     </g>
     <g opacity="0"><animate attributeName="opacity" values="0;1;1" keyTimes="0;0.46;1" dur="12s" fill="freeze"/>
       <text x="492" y="285" font-family="'SF Mono',Consolas,monospace" font-size="12.5" font-weight="600"><tspan fill="#475569">📧 </tspan><tspan fill="#334155">email     </tspan><tspan fill="#090d16">topiwalaarham@gmail.com</tspan></text>
