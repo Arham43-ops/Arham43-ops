@@ -29,3 +29,7 @@
 [Instagram](https://www.instagram.com/arham.tsx/)
 
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arham43-ops&color=fb4362&style=flat-square"/>
+</p>
